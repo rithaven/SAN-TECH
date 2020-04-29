@@ -61,12 +61,12 @@ article, aside, figcaption,figure, header, hgroup, main, nav, section {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: #27313b;
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #48494b;
 }
 
 body {
